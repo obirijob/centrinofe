@@ -1,0 +1,28 @@
+/** @format */
+
+@font-face {
+  font-family: r;
+  src: url('./fonts/r.ttf');
+}
+
+@font-face {
+  font-family: m;
+  src: url('./fonts/m.ttf');
+}
+
+@font-face {
+  font-family: l;
+  src: url('./fonts/l.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: r;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
